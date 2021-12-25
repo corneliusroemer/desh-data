@@ -4,6 +4,3 @@ channels:
   - defaults
 dependencies:
   - xsv
-  - matplotlib
-  - pandas
-  - seaborn

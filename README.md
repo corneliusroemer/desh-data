@@ -6,6 +6,10 @@ The data here is updated every hour, automatically through a Github action, so w
 
 The resulting dataset can be downloaded here, beware it's currently around 50MB in size: <https://raw.githubusercontent.com/corneliusroemer/desh-data/main/data/meta_lineages.csv>
 
+## Omicron share plot
+
+![Omicron Logit Plot](plots/omicron_logit.png)
+
 ## Description of data
 
 Column description:

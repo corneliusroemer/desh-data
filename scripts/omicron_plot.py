@@ -48,7 +48,7 @@ plot_df = pd.concat({'omicrons':daily_omicrons,'all': daily_all}, axis=1)
 plot_df['omicron_share'] = plot_df['omicrons']/plot_df['all']
 #%%
 # Logit plot
-locale.setlocale(locale.LC_ALL, 'de_DE.utf8')
+# locale.setlocale(locale.LC_ALL, 'de_DE.utf8')
 fig, ax = plt.subplots(num=None, figsize=(6.75, 4), facecolor='w', edgecolor='k')
 sns.scatterplot(data=plot_df['20211118':], x="date", y="omicron_share", hue="all", size="all")
 plt.subplots_adjust(left=0.15, right=0.9, top=0.9, bottom=0.25)
