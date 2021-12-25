@@ -1,0 +1,6 @@
+name: transform
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - xsv

@@ -1,0 +1,17 @@
+name: transform
+on: [push, workflow_dispatch]
+jobs:
+  my-job:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    steps:
+      - uses: actions/checkout@v2
+      - name: install mamba
+        uses: mamba-org/provision-with-micromamba@main
+      - run: bash scripts/pipeline.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Apply php-cs-fixer changes
+          file_pattern: data/meta_lineages.csv
