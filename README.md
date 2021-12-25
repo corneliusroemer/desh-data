@@ -2,6 +2,8 @@
 
 This repository contains a join of the metadata and pango lineage tables of all German SARS-CoV-2 sequences published by the Robert-Koch-Institut on [Github](https://github.com/robert-koch-institut/SARS-CoV-2-Sequenzdaten_aus_Deutschland).
 
+The data here is updated every hour, automatically through a Github action, so whenever new data appears in the RKI repo, you will see it here within at most an hour.
+
 The resulting dataset can be downloaded here, beware it's currently around 50MB in size: <https://raw.githubusercontent.com/corneliusroemer/desh-data/main/data/meta_lineages.csv>
 
 ## Description of data
