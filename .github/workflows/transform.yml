@@ -21,6 +21,7 @@ jobs:
           file_pattern: data/meta_lineages.csv
   plot:
     runs-on: ubuntu-latest
+    needs: transform
     defaults:
       run:
         shell: bash -l {0}
