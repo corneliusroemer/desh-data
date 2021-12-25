@@ -45,4 +45,6 @@ IMS-10025-CVDP-00011,2021-01-17,N,2021-01-26,10409,10409,B.1.389,
 
 The underlying files that I use as input are licensed by RKI under CC-BY 4.0, see more details here: <https://github.com/robert-koch-institut/SARS-CoV-2-Sequenzdaten_aus_Deutschland#lizenz>.
 
-The same applies to the data in this repository. Just cite the original source, no need to cite this repo since it's just a trivial join.
+The software here is licensed under the "Unlicense". You can do with it whatever you want.
+
+For the data, just cite the original source, no need to cite this repo since it's just a trivial join.
