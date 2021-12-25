@@ -43,6 +43,43 @@ IMS-10025-CVDP-00010,2021-01-17,N,2021-01-26,10409,10409,B.1.1.7,Alpha (B.1.1.7-
 IMS-10025-CVDP-00011,2021-01-17,N,2021-01-26,10409,10409,B.1.389,
 ```
 
+## Suggested import into pandas
+
+You can import the data into pandas as follows:
+
+```python
+#%%
+import pandas as pd
+
+#%%
+df = pd.read_csv(
+    'https://raw.githubusercontent.com/corneliusroemer/desh-data/main/data/meta_lineages.csv',
+    index_col=0,
+    parse_dates=[1,3],
+    infer_datetime_format=True,
+    cache_dates=True,
+    dtype = {'SEQ_REASON': 'category',
+             'SENDING_LAB_PC': 'category',
+             'SEQUENCING_LAB_PC': 'category',
+             'lineage': 'category',
+             'scorpio_call': 'category'
+             }
+)
+#%%
+df.rename(columns={
+    'DATE_DRAW': 'date',
+    'PROCESSING_DATE': 'processing_date',
+    'SEQ_REASON': 'reason',
+    'SENDING_LAB_PC': 'sending_pc',
+    'SEQUENCING_LAB_PC': 'sequencing_pc',
+    'lineage': 'lineage',
+    'scorpio_call': 'scorpio'
+    },
+    inplace=True
+)
+df
+```
+
 ## License
 
 The underlying files that I use as input are licensed by RKI under CC-BY 4.0, see more details here: <https://github.com/robert-koch-institut/SARS-CoV-2-Sequenzdaten_aus_Deutschland#lizenz>.
