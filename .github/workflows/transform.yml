@@ -19,3 +19,17 @@ jobs:
         with:
           commit_message: Data update
           file_pattern: data/meta_lineages.csv
+  plot:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+    steps:
+      - uses: actions/checkout@v2
+      - name: install mamba
+        uses: mamba-org/provision-with-micromamba@main
+      - run: python scripts/omicron_plot.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Plot update
+          file_pattern: plots/omicron*
