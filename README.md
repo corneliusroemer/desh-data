@@ -8,9 +8,9 @@ The resulting dataset can be downloaded here, beware it's currently around 50MB 
 
 ## Omicron share plot
 
-![Omicron Logit Plot](plots/omicron_logit.png)
+![Omicron Logit Plot](plots/omicron_NX_logit.png)
 
-![Omicron Logit Plot](plots/omicron_linear.png)
+![Omicron Logit Plot](plots/omicron_NX_linear.png)
 
 ## Description of data
 
