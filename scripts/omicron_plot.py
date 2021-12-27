@@ -75,6 +75,10 @@ def plot_omicron_share(df,reason,scale):
     formatter = mdates.ConciseDateFormatter(locator)
     ax.xaxis.set_major_locator(locator)
     ax.xaxis.set_major_formatter(formatter)
+    ax.xaxis.set_minor_locator(ticker.MultipleLocator(base=1.0))
+    ax.grid(True, which='major', linewidth=0.25)
+    ax.grid(True, which='minor', linewidth=0.1)
+    ax.set_axisbelow(True)
 
     if scale == 'logit':
         ax.yaxis.set_major_formatter(ticker.FuncFormatter(lambda y, _: f'{float(f"{100*y:.1g}"):g}%'))
