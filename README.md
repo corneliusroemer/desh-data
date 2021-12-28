@@ -10,9 +10,11 @@ The resulting dataset can be downloaded here, beware it's currently around 50MB 
 
 Type `N` means representative surveillance. Type `X` means unknown, but since this is unlikely to be heavily targeted and includes quite a number of labs I include it now in the main plot (hence type `NX`).
 
-![Omicron Logit Plot](plots/omicron_NX_logit.png)
+![Omicron Logit Plot](plots/omicron_N_logit.png)
 
-![Omicron Logit Plot](plots/omicron_NX_linear.png)
+![Omicron Logit Plot](plots/omicron_N_linear.png)
+
+![Omicron share by zip code area](plots/omi_share_by_area.png)
 
 ## Description of data
 
