@@ -56,4 +56,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Numpyro update
-          file_pattern: plots/omi_*, scripts/hierarchical_numpyro.ipynb
+          file_pattern: plots/omi_*, hierarchical_numpyro.ipynb
