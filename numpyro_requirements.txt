@@ -11,3 +11,4 @@ seaborn
 scipy
 ipykernel
 nbconvert
+funsor
