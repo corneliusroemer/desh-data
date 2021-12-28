@@ -1,6 +1,5 @@
 name: plot
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron: "10 5-7 * * *"
