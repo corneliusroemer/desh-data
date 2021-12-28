@@ -52,7 +52,7 @@ jobs:
           cache: "pip"
           cache-dependency-path: "numpyro_requirements.txt"
       - run: pip install -r numpyro_requirements.txt
-      - run: jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute scripts/hierarchical_numpyro.ipynb
+      - run: jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute hierarchical_numpyro.ipynb
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Numpyro update
