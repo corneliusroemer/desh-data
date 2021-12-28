@@ -1,0 +1,12 @@
+datetime
+arviz
+matplotlib
+numpy
+numpyro
+numpyro
+pandas
+jax
+sklearn
+seaborn
+scipy
+ipykernel
