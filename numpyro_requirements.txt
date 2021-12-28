@@ -10,3 +10,4 @@ sklearn
 seaborn
 scipy
 ipykernel
+nbconvert
