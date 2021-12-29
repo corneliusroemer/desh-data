@@ -1,5 +1,6 @@
 name: plot
 on:
+  pull_request:
   workflow_dispatch:
   schedule:
     - cron: "10 5-7 * * *"
