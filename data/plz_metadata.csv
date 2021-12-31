@@ -1,0 +1,252 @@
+zipcode,country_code,place,state,state_code,province,province_code,community,community_code,latitude,longitude,inc_2021-11-25,inc_2021-12-20
+01067,DE,Dresden Innere Altstadt,Sachsen,SN,,00,Kreisfreie Stadt Dresden,14612,51.0507,13.7366,1444.2,765.5
+01127,DE,Dresden,Sachsen,SN,,00,Kreisfreie Stadt Dresden,14612,51.079,13.7208,1444.2,765.5
+01169,DE,Dresden,Sachsen,SN,,00,Kreisfreie Stadt Dresden,14612,51.0443,13.6738,1444.2,765.5
+01239,DE,Dresden,Sachsen,SN,,00,Kreisfreie Stadt Dresden,14612,51.0066,13.8089,1444.2,765.5
+01307,DE,Dresden,Sachsen,SN,,00,Kreisfreie Stadt Dresden,14612,51.05,13.75,1444.2,765.5
+01458,DE,Ottendorf-Okrilla,Sachsen,SN,,00,Landkreis Bautzen,14625,51.1833,13.8333,1938.9,885.5
+01662,DE,Meißen,Sachsen,SN,,00,Landkreis Meißen,14627,51.1649,13.4859,1288.0,955.6
+01665,DE,Klipphausen,Sachsen,SN,,00,Landkreis Meißen,14627,51.0684,13.5137,1288.0,955.6
+02625,DE,Bautzen,Sachsen,SN,,00,Landkreis Bautzen,14625,51.1825,14.4292,1938.9,885.5
+03048,DE,Cottbus,Brandenburg,BB,,00,Kreisfreie Stadt Cottbus,12052,51.7403,14.3198,728.5,1210.8
+03050,DE,Cottbus,Brandenburg,BB,,00,Kreisfreie Stadt Cottbus,12052,51.7324,14.3347,728.5,1210.8
+04103,DE,Leipzig,Sachsen,SN,,00,Kreisfreie Stadt Leipzig,14713,51.3405,12.3827,910.5,428.3
+04289,DE,Leipzig,Sachsen,SN,,00,Kreisfreie Stadt Leipzig,14713,51.3667,12.3833,910.5,428.3
+04571,DE,Rötha,Sachsen,SN,,00,Landkreis Leipzig,14729,51.1978,12.4145,1355.3,729.1
+04600,DE,Altenburg,Thüringen,TH,,00,Altenburger Land,16077,50.9876,12.4368,1178.2,668.9
+04779,DE,Wermsdorf,Sachsen,SN,,00,Landkreis Nordsachsen,14730,51.2833,12.95,1470.3,727.3
+06112,DE,Halle,Sachsen-Anhalt,ST,,00,Kreisfreie Stadt Halle,15002,51.4753,11.9973,602.9,715.1
+06120,DE,Halle,Sachsen-Anhalt,ST,,00,Kreisfreie Stadt Halle,15002,51.5124,11.9055,602.9,715.1
+06406,DE,Bernburg,Sachsen-Anhalt,ST,,00,Salzlandkreis,15089,51.7946,11.7401,695.6,642.8
+06847,DE,Dessau,Sachsen-Anhalt,ST,,00,Dessau-Roßlau,15001,51.8221,12.1917,906.1,649.0
+07548,DE,Gera,Thüringen,TH,,00,"Gera, Stadt",16052,50.8667,12.0833,775.0,852.1
+07745,DE,Jena,Thüringen,TH,,00,"Jena, Stadt",16053,50.8933,11.5847,578.0,692.7
+07973,DE,Greiz,Thüringen,TH,,00,Landkreis Greiz,16076,50.6578,12.1992,976.5,893.8
+08396,DE,Oberwiera,Sachsen,SN,,00,Zwickau,14524,50.8833,12.5,1507.2,724.0
+09116,DE,Chemnitz,Sachsen,SN,,00,"Chemnitz, Stadt",14511,50.8213,12.884,1112.9,743.9
+09221,DE,Neukirchen/Erzgebirge,Sachsen,SN,,00,Erzgebirgskreis,14521,50.7835,12.87,2052.0,725.5
+09366,DE,Stollberg/Erzgebirge,Sachsen,SN,,00,Erzgebirgskreis,14521,50.7047,12.7645,2052.0,725.5
+09456,DE,Mildenau,Sachsen,SN,,00,Erzgebirgskreis,14521,50.5869,13.0726,2052.0,725.5
+10409,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.5443,13.4414,379.1,338.4
+10627,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.508,13.303,379.1,338.4
+10829,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.4761,13.3607,379.1,338.4
+12247,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.4395,13.3462,379.1,338.4
+12489,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.4356,13.5432,379.1,338.4
+12683,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.5075,13.5591,379.1,338.4
+13086,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.5565,13.4482,379.1,338.4
+13347,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.5491,13.3655,379.1,338.4
+13353,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.5416,13.3495,379.1,338.4
+13407,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.5727,13.3512,379.1,338.4
+14050,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.5208,13.2683,379.1,338.4
+14197,DE,Berlin,Berlin,BE,,00,"Berlin, Stadt",11000,52.4734,13.3118,379.1,338.4
+14467,DE,Potsdam,Brandenburg,BB,,00,Kreisfreie Stadt Potsdam,12054,52.403,13.0626,416.2,331.1
+14770,DE,Brandenburg an der Havel,Brandenburg,BB,,00,Kreisfreie Stadt Brandenburg an der Havel,12051,52.4189,12.5228,449.8,774.6
+15230,DE,Frankfurt (Oder),Brandenburg,BB,,00,Frankfurt (Oder),12053,52.3475,14.5539,780.5,620.9
+16321,DE,Lindenberg,Brandenburg,BB,,00,Landkreis Barnim,12060,52.6026,13.5244,390.2,555.7
+17493,DE,Greifswald,Mecklenburg-Vorpommern,MV,,00,Vorpommern-Greifswald,13075,54.0902,13.4464,424.1,537.0
+18057,DE,Rostock,Mecklenburg-Vorpommern,MV,,00,Kreisfreie Stadt Rostock,13003,54.0872,12.1062,256.4,368.3
+18059,DE,Ziesendorf,Mecklenburg-Vorpommern,MV,,00,Landkreis Rostock,13072,53.9943,12.0393,373.6,470.8
+18435,DE,Stralsund,Mecklenburg-Vorpommern,MV,,00,Vorpommern-Rügen,13073,54.3272,13.0642,402.4,410.9
+19061,DE,Schwerin,Mecklenburg-Vorpommern,MV,,00,Schwerin,13004,53.5992,11.404,376.5,250.0
+20095,DE,Hamburg Altstadt,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.5453,9.9953,244.4,326.5
+20359,DE,Hamburg Neustadt,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.5497,9.9794,244.4,326.5
+20539,DE,Hamburg Wilhelmsburg,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.4978,10.0189,244.4,326.5
+21079,DE,Hamburg,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.4616,10.0109,244.4,326.5
+21423,DE,Winsen (Luhe),Niedersachsen,NI,,00,Landkreis Harburg,03353,53.3484,10.2068,142.2,173.8
+21502,DE,Hamwarde,Schleswig-Holstein,SH,,00,Kreis Herzogtum Lauenburg,01053,53.45,10.4167,192.8,244.5
+22081,DE,Hamburg Uhlenhorst,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.5714,10.0189,244.4,326.5
+22083,DE,Hamburg Barmbek-Süd,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.58,10.0436,244.4,326.5
+22087,DE,Hamburg Uhlenhorst,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.5714,10.0189,244.4,326.5
+22339,DE,Hamburg,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.6508,10.0432,244.4,326.5
+22453,DE,Hamburg Niendorf,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.6186,9.9611,244.4,326.5
+22763,DE,Hamburg Ottensen,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.555,9.9181,244.4,326.5
+22767,DE,Hamburg Sankt Pauli,Hamburg,HH,,00,"Hamburg, Freie und Hansestadt",02000,53.5511,9.97,244.4,326.5
+23564,DE,Lübeck,Schleswig-Holstein,SH,,00,"Lübeck, Hansestadt",01003,53.8705,10.6986,166.8,214.5
+23845,DE,Itzstedt,Schleswig-Holstein,SH,,00,Kreis Segeberg,01060,53.808,10.158,150.4,194.6
+24106,DE,Kiel,Schleswig-Holstein,SH,,00,Kreisfreie Stadt Kiel,01002,54.3506,10.1205,140.3,153.7
+24113,DE,Molfsee,Schleswig-Holstein,SH,,00,Kreis Rendsburg-Eckernförde,01058,54.2667,10.0667,88.8,157.2
+25746,DE,Norderwöhrden,Schleswig-Holstein,SH,,00,Kreis Dithmarschen,01051,54.2,9.0167,93.8,82.6
+26129,DE,Oldenburg (Oldenburg),Niedersachsen,NI,,00,"Oldenburg (Oldenburg), Stadt",03403,53.1547,8.1706,199.3,115.6
+26135,DE,Oldenburg (Oldenburg),Niedersachsen,NI,,00,"Oldenburg (Oldenburg), Stadt",03403,53.1267,8.2384,199.3,115.6
+27580,DE,Bremerhaven,Bremen,HB,,00,"Bremerhaven, Stadt",04012,53.5685,8.5968,216.6,181.4
+28357,DE,Bremen,Bremen,HB,,00,Kreisfreie Stadt Bremen,04011,53.1178,8.8947,187.4,295.6
+30159,DE,Hannover,Niedersachsen,NI,,00,Region Hannover,03241,52.3736,9.7371,208.3,218.6
+30163,DE,Hannover,Niedersachsen,NI,,00,Region Hannover,03241,52.3943,9.7475,208.3,218.6
+30167,DE,Hannover,Niedersachsen,NI,,00,Region Hannover,03241,52.3914,9.7083,208.3,218.6
+30171,DE,Hannover,Niedersachsen,NI,,00,Region Hannover,03241,52.3697,9.7521,208.3,218.6
+30173,DE,Hannover,Niedersachsen,NI,,00,Region Hannover,03241,52.3586,9.7558,208.3,218.6
+30449,DE,Hannover,Niedersachsen,NI,,00,Region Hannover,03241,52.3685,9.7082,208.3,218.6
+30519,DE,Hannover,Niedersachsen,NI,,00,Region Hannover,03241,52.3398,9.7743,208.3,218.6
+31785,DE,Hameln,Niedersachsen,NI,,00,Hameln-Pyrmont,03252,52.1037,9.3676,172.3,146.7
+32105,DE,Bad Salzuflen,Nordrhein-Westfalen,NW,Reg.-Bez. Detmold,057,Lippe,05766,52.0808,8.7505,272.1,509.8
+32545,DE,Bad Oeynhausen,Nordrhein-Westfalen,NW,Reg.-Bez. Detmold,057,Minden-Lübbecke,05770,52.1917,8.8093,356.5,268.8
+32758,DE,Detmold,Nordrhein-Westfalen,NW,Reg.-Bez. Detmold,057,Lippe,05766,51.9509,8.8658,272.1,509.8
+33602,DE,Bielefeld,Nordrhein-Westfalen,NW,Reg.-Bez. Detmold,057,"Bielefeld, Stadt",05711,52.0245,8.5326,393.1,286.0
+34119,DE,Kassel,Hessen,HE,Regierungsbezirk Kassel,066,"Kassel, documenta-Stadt",06611,51.3152,9.4647,246.7,231.8
+34125,DE,Kassel,Hessen,HE,Regierungsbezirk Kassel,066,"Kassel, documenta-Stadt",06611,51.3195,9.5163,246.7,231.8
+35043,DE,Marburg,Hessen,HE,Reg.-Bez. Gießen,065,Marburg-Biedenkopf,06534,50.7765,8.7645,154.5,143.1
+35392,DE,Gießen,Hessen,HE,Reg.-Bez. Gießen,065,Gießen,06531,50.5669,8.6538,183.3,167.1
+35781,DE,Weilburg,Hessen,HE,Reg.-Bez. Gießen,065,Limburg-Weilburg,06533,50.4844,8.2625,192.1,175.3
+36043,DE,Fulda,Hessen,HE,Regierungsbezirk Kassel,066,Fulda,06631,50.5345,9.6922,359.6,351.5
+37075,DE,Göttingen,Niedersachsen,NI,,00,Landkreis Göttingen,03159,51.5509,9.9328,241.7,224.1
+37077,DE,Göttingen,Niedersachsen,NI,,00,Landkreis Göttingen,03159,51.5604,9.9319,241.7,224.1
+38440,DE,Wolfsburg,Niedersachsen,NI,,00,"Wolfsburg, Stadt",03103,52.4239,10.7812,268.9,256.8
+39104,DE,Magdeburg,Sachsen-Anhalt,ST,,00,Landeshauptstadt Magdeburg,15003,52.1243,11.6322,499.6,584.0
+39120,DE,Magdeburg,Sachsen-Anhalt,ST,,00,Landeshauptstadt Magdeburg,15003,52.0816,11.6212,499.6,584.0
+39124,DE,Magdeburg,Sachsen-Anhalt,ST,,00,Landeshauptstadt Magdeburg,15003,52.1638,11.6333,499.6,584.0
+40210,DE,Düsseldorf,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Düsseldorf, Stadt",05111,51.2216,6.7897,325.2,250.6
+40215,DE,Düsseldorf,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Düsseldorf, Stadt",05111,51.2165,6.7836,325.2,250.6
+40225,DE,Düsseldorf,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Düsseldorf, Stadt",05111,51.2055,6.7885,325.2,250.6
+40476,DE,Düsseldorf,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Düsseldorf, Stadt",05111,51.2465,6.7855,325.2,250.6
+40477,DE,Düsseldorf,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Düsseldorf, Stadt",05111,51.2371,6.7795,325.2,250.6
+40721,DE,Hilden,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,Mettmann,05158,51.1694,6.9253,278.5,323.1
+41169,DE,Mönchengladbach,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Mönchengladbach, Stadt",05116,51.2,6.4333,300.0,219.1
+41460,DE,Neuss,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,Rhein-Kreis Neuss,05162,51.2014,6.6944,274.8,171.5
+42283,DE,Wuppertal,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Wuppertal, Stadt",05124,51.2699,7.1838,280.3,302.8
+42549,DE,Velbert,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,Mettmann,05158,51.3336,7.027,278.5,323.1
+44135,DE,Dortmund,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Dortmund, Stadt",05913,51.5125,7.477,260.3,246.0
+44137,DE,Dortmund,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Dortmund, Stadt",05913,51.5097,7.4601,260.3,246.0
+44534,DE,Lünen,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,Unna,05978,51.6189,7.5222,200.2,203.5
+44649,DE,Herne,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Herne, Stadt",05916,51.5329,7.1611,318.0,276.5
+44789,DE,Bochum,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Bochum, Stadt",05911,51.4661,7.2491,283.7,208.0
+44791,DE,Bochum,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Bochum, Stadt",05911,51.49,7.2493,283.7,208.0
+44799,DE,Bochum,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Bochum, Stadt",05911,51.4509,7.2388,283.7,208.0
+44879,DE,Bochum,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Bochum, Stadt",05911,51.4271,7.1543,283.7,208.0
+45127,DE,Essen,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Essen, Stadt",05113,51.4535,7.0102,206.6,285.9
+45138,DE,Essen,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Essen, Stadt",05113,51.447,7.0381,206.6,285.9
+45147,DE,Essen,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Essen, Stadt",05113,51.4408,6.9863,206.6,285.9
+45326,DE,Essen,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Essen, Stadt",05113,51.4844,7.005,206.6,285.9
+45329,DE,Essen,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Essen, Stadt",05113,51.5032,7.0073,206.6,285.9
+46047,DE,Oberhausen,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Oberhausen, Stadt",05119,51.4834,6.8798,203.3,295.4
+47051,DE,Duisburg,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Duisburg, Stadt",05112,51.4294,6.7744,239.6,197.2
+47441,DE,Moers,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,Wesel,05170,51.4463,6.6396,276.9,203.6
+47798,DE,Krefeld,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Krefeld, Stadt",05114,51.3311,6.5616,317.4,275.1
+47805,DE,Krefeld,Nordrhein-Westfalen,NW,Reg.-Bez. Düsseldorf,051,"Krefeld, Stadt",05114,51.3251,6.5805,317.4,275.1
+48143,DE,Münster,Nordrhein-Westfalen,NW,Reg.-Bez. Münster,055,"Münster, Stadt",05515,51.9597,7.6314,185.2,123.6
+48145,DE,Münster,Nordrhein-Westfalen,NW,Reg.-Bez. Münster,055,"Münster, Stadt",05515,51.9667,7.6333,185.2,123.6
+48147,DE,Münster,Nordrhein-Westfalen,NW,Reg.-Bez. Münster,055,"Münster, Stadt",05515,51.9858,7.648,185.2,123.6
+48153,DE,Münster,Nordrhein-Westfalen,NW,Reg.-Bez. Münster,055,"Münster, Stadt",05515,51.9268,7.6313,185.2,123.6
+48155,DE,Münster,Nordrhein-Westfalen,NW,Reg.-Bez. Münster,055,"Münster, Stadt",05515,51.9597,7.6349,185.2,123.6
+48653,DE,Coesfeld,Nordrhein-Westfalen,NW,Reg.-Bez. Münster,055,Coesfeld,05558,51.9435,7.1681,152.2,155.0
+49074,DE,Osnabrück,Niedersachsen,NI,,00,"Osnabrück, Stadt",03404,52.2738,8.0521,182.7,191.8
+49124,DE,Georgsmarienhütte,Niedersachsen,NI,,00,Landkreis Osnabrück,03459,52.203,8.0448,288.2,205.3
+49685,DE,Emstek,Niedersachsen,NI,,00,Cloppenburg,03453,52.8333,8.15,342.3,197.5
+50354,DE,Hürth,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,Rhein-Erft-Kreis,05362,50.8708,6.8676,347.7,211.0
+50667,DE,Köln,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Köln, Stadt",05315,50.9387,6.9547,338.5,277.5
+50858,DE,Köln,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Köln, Stadt",05315,50.9243,6.8565,338.5,277.5
+50931,DE,Köln,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Köln, Stadt",05315,50.9323,6.9183,338.5,277.5
+50933,DE,Köln,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Köln, Stadt",05315,50.9427,6.8763,338.5,277.5
+50935,DE,Köln,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Köln, Stadt",05315,50.9225,6.8956,338.5,277.5
+50996,DE,Köln,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Köln, Stadt",05315,50.8834,6.9902,338.5,277.5
+51109,DE,Köln,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Köln, Stadt",05315,50.9447,7.0699,338.5,277.5
+51375,DE,Leverkusen,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Leverkusen, Stadt",05316,51.0331,7.052,396.6,244.0
+51580,DE,Reichshof,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,Oberbergischer Kreis,05374,50.9284,7.6432,421.4,364.7
+52062,DE,Aachen,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,Städteregion Aachen,05334,50.776,6.0872,339.9,201.7
+52074,DE,Aachen,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,Städteregion Aachen,05334,50.7479,6.0485,339.9,201.7
+52249,DE,Eschweiler,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,Städteregion Aachen,05334,50.8185,6.2718,339.9,201.7
+52351,DE,Düren,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,Düren,05358,50.8086,6.4982,255.7,192.7
+53113,DE,Bonn,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Bonn, Stadt",05314,50.7231,7.1068,285.9,186.3
+53115,DE,Bonn,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Bonn, Stadt",05314,50.7272,7.0851,285.9,186.3
+53121,DE,Bonn,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Bonn, Stadt",05314,50.7317,7.0575,285.9,186.3
+53127,DE,Bonn,Nordrhein-Westfalen,NW,Regierungsbezirk Köln,053,"Bonn, Stadt",05314,50.7112,7.0668,285.9,186.3
+54290,DE,Trier,Rheinland-Pfalz,RP,,00,"Trier, kreisfreie Stadt",07211,49.7537,6.6393,141.9,164.4
+55128,DE,Mainz,Rheinland-Pfalz,RP,,00,"Mainz, kreisfreie Stadt",07315,49.9808,8.2422,220.6,153.8
+55129,DE,Mainz,Rheinland-Pfalz,RP,,00,"Mainz, kreisfreie Stadt",07315,49.9661,8.2663,220.6,153.8
+56068,DE,Koblenz,Rheinland-Pfalz,RP,,00,"Koblenz, kreisfreie Stadt",07111,50.3567,7.5932,214.3,214.3
+56072,DE,Koblenz,Rheinland-Pfalz,RP,,00,"Koblenz, kreisfreie Stadt",07111,50.3578,7.5251,214.3,214.3
+58515,DE,Lüdenscheid,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,Märkischer Kreis,05962,51.2012,7.6258,286.8,286.8
+59071,DE,Hamm,Nordrhein-Westfalen,NW,Reg.-Bez. Arnsberg,059,"Hamm, Stadt",05915,51.691,7.8704,302.3,261.5
+60327,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.1038,8.6522,358.2,251.1
+60437,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.1924,8.6753,358.2,251.1
+60438,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.1787,8.632,358.2,251.1
+60439,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.1605,8.6337,358.2,251.1
+60528,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.0837,8.644,358.2,251.1
+60596,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.0974,8.6735,358.2,251.1
+61231,DE,Bad Nauheim,Hessen,HE,Regierungsbezirk Darmstadt,064,Wetteraukreis,06440,50.3646,8.7386,229.7,193.7
+63069,DE,Offenbach,Hessen,HE,Regierungsbezirk Darmstadt,064,"Offenbach am Main, Stadt",06413,50.0894,8.7494,357.5,359.8
+64283,DE,Darmstadt,Hessen,HE,Regierungsbezirk Darmstadt,064,"Darmstadt, Wissenschaftsstadt",06411,49.8719,8.6484,293.4,200.4
+65479,DE,Raunheim,Hessen,HE,Regierungsbezirk Darmstadt,064,Groß-Gerau,06433,50.0132,8.4525,273.7,204.9
+65549,DE,Limburg an der Lahn,Hessen,HE,Reg.-Bez. Gießen,065,Limburg-Weilburg,06533,50.383,8.0611,192.1,175.3
+65719,DE,Hofheim am Taunus,Hessen,HE,Regierungsbezirk Darmstadt,064,Main-Taunus-Kreis,06436,50.0902,8.4493,280.0,164.7
+65929,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.1045,8.5389,358.2,251.1
+66386,DE,Sankt Ingbert,Saarland,SL,,00,Saarpfalz-Kreis,10045,49.277,7.1167,403.1,333.9
+66424,DE,Homburg,Saarland,SL,,00,Saarpfalz-Kreis,10045,49.3264,7.3387,403.1,333.9
+67063,DE,Ludwigshafen am Rhein,Rheinland-Pfalz,RP,,00,"Ludwigshafen am Rhein, kreisfreie Stadt",07314,49.499,8.4109,443.3,335.0
+67433,DE,Neustadt an der Weinstraße,Rheinland-Pfalz,RP,,00,"Neustadt an der Weinstraße, kreisfreie Stadt",07316,49.3465,8.1491,476.5,333.9
+67657,DE,Kaiserslautern,Rheinland-Pfalz,RP,,00,"Kaiserslautern, kreisfreie Stadt",07312,49.4495,7.7948,259.9,323.1
+68167,DE,Mannheim,Baden-Württemberg,BW,Karlsruhe Region,082,Mannheim,08222,49.4996,8.4939,511.8,274.4
+69120,DE,Heidelberg,Baden-Württemberg,BW,Karlsruhe Region,082,Heidelberg,08221,49.4169,8.6764,245.1,251.4
+69126,DE,Heidelberg,Baden-Württemberg,BW,Karlsruhe Region,082,Heidelberg,08221,49.3757,8.6911,245.1,251.4
+69214,DE,Eppelheim,Baden-Württemberg,BW,Karlsruhe Region,082,Rhein-Neckar-Kreis,08226,49.4019,8.6364,354.2,268.5
+70174,DE,Stuttgart Stuttgart-Nord,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Stuttgart,08111,48.7978,9.1921,343.3,477.4
+70191,DE,Stuttgart,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Stuttgart,08111,48.7667,9.1833,343.3,477.4
+70193,DE,Stuttgart Stuttgart-West,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Stuttgart,08111,48.7736,9.1641,343.3,477.4
+70376,DE,Stuttgart,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Stuttgart,08111,48.7667,9.1833,343.3,477.4
+70771,DE,Leinfelden-Echterdingen,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Esslingen,08116,48.6941,9.1681,491.0,339.9
+71065,DE,Sindelfingen,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Böblingen,08115,48.7023,9.0219,575.5,273.4
+71636,DE,Ludwigsburg,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Ludwigsburg,08118,48.8901,9.1746,423.3,265.3
+72076,DE,Tübingen,Baden-Württemberg,BW,Tübingen Region,084,Tübingen,08416,48.5369,9.0536,400.5,231.1
+72622,DE,Nürtingen,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Esslingen,08116,48.6256,9.342,491.0,339.9
+72770,DE,Reutlingen,Baden-Württemberg,BW,Tübingen Region,084,Reutlingen,08415,48.4942,9.1666,536.4,309.6
+73035,DE,Göppingen,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Göppingen,08117,48.7,9.6667,558.8,355.5
+74072,DE,Heilbronn,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Heilbronn,08121,49.1423,9.2234,667.4,445.2
+74078,DE,Heilbronn,Baden-Württemberg,BW,Regierungsbezirk Stuttgart,081,Heilbronn,08121,49.1566,9.1746,667.4,445.2
+76131,DE,Karlsruhe,Baden-Württemberg,BW,Karlsruhe Region,082,Karlsruhe,08212,49.0078,8.4199,375.4,278.2
+76133,DE,Karlsruhe,Baden-Württemberg,BW,Karlsruhe Region,082,Karlsruhe,08212,49.0083,8.3979,375.4,278.2
+76199,DE,Karlsruhe,Baden-Württemberg,BW,Karlsruhe Region,082,Karlsruhe,08212,48.9661,8.4043,375.4,278.2
+76275,DE,Ettlingen,Baden-Württemberg,BW,Karlsruhe Region,082,Karlsruhe,08215,48.9409,8.4076,440.9,307.3
+76726,DE,Germersheim,Rheinland-Pfalz,RP,,00,Landkreis Germersheim,07334,49.2231,8.3639,555.0,450.4
+76870,DE,Kandel,Rheinland-Pfalz,RP,,00,Landkreis Germersheim,07334,49.0828,8.1972,555.0,450.4
+78224,DE,Singen,Baden-Württemberg,BW,Freiburg Region,083,Konstanz,08335,47.7593,8.8403,441.0,409.9
+78464,DE,Konstanz,Baden-Württemberg,BW,Freiburg Region,083,Konstanz,08335,47.6723,9.1834,441.0,409.9
+78467,DE,Konstanz,Baden-Württemberg,BW,Freiburg Region,083,Konstanz,08335,47.6744,9.1649,441.0,409.9
+79100,DE,Freiburg im Breisgau,Baden-Württemberg,BW,Freiburg Region,083,Freiburg im Breisgau,08311,47.9809,7.8327,360.3,284.9
+79104,DE,Freiburg im Breisgau,Baden-Württemberg,BW,Freiburg Region,083,Freiburg im Breisgau,08311,48.0098,7.8545,360.3,284.9
+80333,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1452,11.5668,541.5,232.6
+80335,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1427,11.5552,541.5,232.6
+80336,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1345,11.559,541.5,232.6
+80804,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1738,11.5858,541.5,232.6
+80937,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1974,11.5721,541.5,232.6
+81671,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1223,11.6205,541.5,232.6
+81675,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1352,11.6039,541.5,232.6
+81679,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1512,11.6103,541.5,232.6
+81737,DE,München,Bayern,BY,Upper Bavaria,091,München,09162,48.1098,11.6183,541.5,232.6
+82152,DE,Krailling,Bayern,BY,Upper Bavaria,091,Starnberg,09188,48.1,11.4,540.2,236.4
+82256,DE,Fürstenfeldbruck,Bayern,BY,Upper Bavaria,091,Fürstenfeldbruck,09179,48.179,11.2547,462.6,173.7
+83064,DE,Raubling,Bayern,BY,Upper Bavaria,091,Landkreis Rosenheim,09187,47.7905,12.1109,1460.7,365.7
+84307,DE,Eggenfelden,Bayern,BY,Lower Bavaria,092,Landkreis Rottal-Inn,09277,48.4051,12.7575,1306.2,256.2
+85051,DE,Ingolstadt,Bayern,BY,Upper Bavaria,091,Ingolstadt,09161,48.7212,11.4096,609.0,330.8
+85221,DE,Dachau,Bayern,BY,Upper Bavaria,091,Landkreis Dachau,09174,48.26,11.434,590.5,259.8
+85354,DE,Freising,Bayern,BY,Upper Bavaria,091,Landkreis Freising,09178,48.3938,11.7331,521.9,259.0
+85764,DE,Oberschleißheim,Bayern,BY,Upper Bavaria,091,Landkreis München,09184,48.25,11.5667,540.5,191.0
+86154,DE,Augsburg,Bayern,BY,Swabia,097,Augsburg,09761,48.3932,10.8814,586.8,242.0
+86156,DE,Augsburg,Bayern,BY,Swabia,097,Augsburg,09761,48.3815,10.8548,586.8,242.0
+87435,DE,Kempten,Bayern,BY,Swabia,097,Kempten (Allgäu),09763,47.7184,10.3132,732.5,306.1
+88212,DE,Ravensburg,Baden-Württemberg,BW,Tübingen Region,084,Landkreis Ravensburg,08436,47.7815,9.6183,628.2,359.9
+89073,DE,Ulm,Baden-Württemberg,BW,Tübingen Region,084,Ulm,08421,48.4015,9.9927,525.3,315.7
+89081,DE,Ulm Jungingen,Baden-Württemberg,BW,Tübingen Region,084,Ulm,08421,48.4459,9.989,525.3,315.7
+90419,DE,Nürnberg,Bayern,BY,Regierungsbezirk Mittelfranken,095,Nürnberg,09564,49.4639,11.0671,603.6,322.4
+90429,DE,Nürnberg,Bayern,BY,Regierungsbezirk Mittelfranken,095,Nürnberg,09564,49.4599,11.0275,603.6,322.4
+90530,DE,Wendelstein,Bayern,BY,Regierungsbezirk Mittelfranken,095,Landkreis Roth,09576,49.3523,11.1507,544.2,323.2
+91054,DE,Buckenhof,Bayern,BY,Regierungsbezirk Mittelfranken,095,Landkreis Erlangen-Höchstadt,09572,49.5932,11.0504,374.4,221.6
+92224,DE,Amberg,Bayern,BY,Upper Palatinate,093,Amberg,09361,49.4429,11.8627,587.4,259.2
+92637,DE,Weiden,Bayern,BY,Upper Palatinate,093,Weiden i.d.OPf.,09363,49.6768,12.1561,568.9,183.4
+93049,DE,Regensburg,Bayern,BY,Upper Palatinate,093,Regensburg,09362,49.0153,12.0577,498.5,302.1
+93053,DE,Regensburg,Bayern,BY,Upper Palatinate,093,Regensburg,09362,48.9965,12.1202,498.5,302.1
+93133,DE,Burglengenfeld,Bayern,BY,Upper Palatinate,093,Landkreis Schwandorf,09376,49.2038,12.0445,678.9,321.9
+94034,DE,Passau,Bayern,BY,Lower Bavaria,092,Passau,09262,48.589,13.3971,755.5,221.3
+95444,DE,Bayreuth,Bayern,BY,Upper Franconia,094,Bayreuth,09462,49.9461,11.5762,457.8,243.1
+95448,DE,Bayreuth,Bayern,BY,Upper Franconia,094,Bayreuth,09462,49.9474,11.5993,457.8,243.1
+95652,DE,Waldsassen,Bayern,BY,Upper Palatinate,093,Landkreis Tirschenreuth,09377,50.0017,12.3043,408.7,159.0
+97072,DE,Würzburg,Bayern,BY,Regierungsbezirk Unterfranken,096,Würzburg,09663,49.7829,9.9366,407.2,248.1
+97080,DE,Würzburg,Bayern,BY,Regierungsbezirk Unterfranken,096,Würzburg,09663,49.8017,9.9058,407.2,248.1
+97422,DE,Schweinfurt,Bayern,BY,Regierungsbezirk Unterfranken,096,Schweinfurt,09662,50.0545,10.2441,542.0,562.7
+98527,DE,Suhl,Thüringen,TH,,00,"Suhl, Stadt",16054,50.608,10.6957,893.0,876.5
+98617,DE,Ellingshausen,Thüringen,TH,,00,Landkreis Schmalkalden-Meiningen,16066,50.55,10.4667,951.4,996.5
+99084,DE,Erfurt,Thüringen,TH,,00,"Erfurt, Stadt",16051,50.9746,11.0297,661.2,779.6
+99089,DE,Erfurt,Thüringen,TH,,00,"Erfurt, Stadt",16051,50.9968,11.0079,661.2,779.6
+99092,DE,Erfurt,Thüringen,TH,,00,"Erfurt, Stadt",16051,50.973,10.9787,661.2,779.6
+99817,DE,Eisenach,Thüringen,TH,,00,"Eisenach, Stadt",16056,50.9807,10.3152,625.2,639.6
+99947,DE,Kleinwelsbach,Thüringen,TH,,00,Unstrut-Hainich-Kreis,16064,51.1833,10.6667,579.2,868.3
+99974,DE,Unstruttal,Thüringen,TH,,00,Unstrut-Hainich-Kreis,16064,51.2639,10.4472,579.2,868.3
+65929,DE,Frankfurt am Main,Hessen,HE,Regierungsbezirk Darmstadt,064,"Frankfurt am Main, Stadt",06412,50.1045,8.5389,358.2,251.1
